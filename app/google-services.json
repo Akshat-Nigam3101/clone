@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005079525352",
+    "project_id": "weasone-4936d",
+    "storage_bucket": "weasone-4936d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005079525352:android:054e36bd487495c640565d",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005079525352-t1l50o9ur9799e2vkbtlne15tct9i3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDss2OzHrQvrFN9tWFSqKEMzrC-OEkfw1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005079525352-t1l50o9ur9799e2vkbtlne15tct9i3h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
