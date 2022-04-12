@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/drawable/background_profile_ui.xml" value="0.211" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/drawable/buttons.xml" value="0.211" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/drawable/ic_action_name.xml" value="0.112" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/drawable/sender_message_layout.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/activity_login.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/activity_phone_login.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/activity_register.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/activity_update_profile.xml" value="0.152" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/fragment_chats.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/fragment_request.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/fragment_status.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/layout/main_activity_toolbar.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WeAsOne/app/src/main/res/menu/options_menu.xml" value="0.2552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
